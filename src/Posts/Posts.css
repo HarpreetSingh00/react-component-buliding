@@ -1,0 +1,43 @@
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.col{
+    width:400px;
+}
+
+.noWrap{
+    flex-wrap:nowrap;
+}
+
+.main-con{
+    width: 800px;
+    margin:50px;
+}
+
+.text-skyBlue{
+    color:skyblue;
+}
+
+.text-lighter{
+    color: grey;
+}
+
+.text-light{
+    color: gray;
+}
+
+.image-con{
+    height: 50px;
+    width:50px;
+    margin-right: 5px;
+}
+
+.btn{
+    margin: 20px auto;
+    width: 150px;
+    height: 30px;
+    color: red;
+    background-color:sandybrown  ;
+}

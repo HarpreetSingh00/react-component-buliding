@@ -1,0 +1,12 @@
+.container{
+    margin: 50px;
+}
+
+.block{
+    display: block;
+    margin-bottom: 5px;
+}
+
+.inline-block{
+    display: inline-block;
+}
